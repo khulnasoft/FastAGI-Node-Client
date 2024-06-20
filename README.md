@@ -17,19 +17,19 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/TransformerOptimus/FastAGI/fork" target="blank">
-<img src="https://img.shields.io/github/forks/TransformerOptimus/FastAGI?style=for-the-badge" alt="FastAGI forks"/>
+<a href="https://github.com/khulnasoft/FastAGI/fork" target="blank">
+<img src="https://img.shields.io/github/forks/khulnasoft/FastAGI?style=for-the-badge" alt="FastAGI forks"/>
 </a>
 
-<a href="https://github.com/TransformerOptimus/FastAGI/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/TransformerOptimus/FastAGI?style=for-the-badge" alt="FastAGI stars"/>
+<a href="https://github.com/khulnasoft/FastAGI/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/khulnasoft/FastAGI?style=for-the-badge" alt="FastAGI stars"/>
 </a>
-<a href='https://github.com/TransformerOptimus/FastAGI/releases'>
-<img src='https://img.shields.io/github/release/TransformerOptimus/FastAGI?&label=Latest&style=for-the-badge'>
+<a href='https://github.com/khulnasoft/FastAGI/releases'>
+<img src='https://img.shields.io/github/release/khulnasoft/FastAGI?&label=Latest&style=for-the-badge'>
 </a>
 
-<a href="https://github.com/TransformerOptimus/FastAGI/commits" target="blank">
-<img src="https://img.shields.io/github/commits-since/TransformerOptimus/FastAGI/v0.0.12.svg?style=for-the-badge" alt="FastAGI Commits"/>
+<a href="https://github.com/khulnasoft/FastAGI/commits" target="blank">
+<img src="https://img.shields.io/github/commits-since/khulnasoft/FastAGI/v0.0.12.svg?style=for-the-badge" alt="FastAGI Commits"/>
 </a>
 </p>
 
@@ -39,12 +39,12 @@
 <a href="https://twitter.com/_fastAGI" target="blank">
 <img src="https://img.shields.io/twitter/follow/_fastAGI?label=Follow: _fastAGI&style=social" alt="Follow _fastAGI"/>
 </a>
-<a href="https://www.reddit.com/r/Fast_AGI" target="_blank"><img src="https://img.shields.io/twitter/url?label=/r/Fast_AGI&logo=reddit&style=social&url=https://github.com/TransformerOptimus/FastAGI"/></a>
+<a href="https://www.reddit.com/r/Fast_AGI" target="_blank"><img src="https://img.shields.io/twitter/url?label=/r/Fast_AGI&logo=reddit&style=social&url=https://github.com/khulnasoft/FastAGI"/></a>
 
 <a href="https://discord.gg/dXbRe5BHJC" target="blank">
 <img src="https://img.shields.io/discord/1107593006032355359?label=Join%20FastAGI&logo=discord&style=social" alt="Join FastAGI Discord Community"/>
 </a>
-<a href="https://www.youtube.com/@_fastagi" target="_blank"><img src="https://img.shields.io/twitter/url?label=Youtube&logo=youtube&style=social&url=https://github.com/TransformerOptimus/FastAGI"/></a>
+<a href="https://www.youtube.com/@_fastagi" target="_blank"><img src="https://img.shields.io/twitter/url?label=Youtube&logo=youtube&style=social&url=https://github.com/khulnasoft/FastAGI"/></a>
 </p>
 
 <p align="center"><b>Connect with the Creator </b></p>
@@ -59,13 +59,13 @@
 
 <p align="center">
 
-<a href="https://twitter.com/intent/tweet?text=Check%20this%20GitHub%20repository%20out.%20FastAGI%20-%20Let%27s%20you%20easily%20build,%20manage%20and%20run%20useful%20autonomous%20AI%20agents.&url=https://github.com/TransformerOptimus/FastAGI&hashtags=FastAGI,AGI,Autonomics,future" target="blank">
+<a href="https://twitter.com/intent/tweet?text=Check%20this%20GitHub%20repository%20out.%20FastAGI%20-%20Let%27s%20you%20easily%20build,%20manage%20and%20run%20useful%20autonomous%20AI%20agents.&url=https://github.com/khulnasoft/FastAGI&hashtags=FastAGI,AGI,Autonomics,future" target="blank">
 <img src="https://img.shields.io/twitter/follow/_fastAGI?label=Share Repo on Twitter&style=social" alt="Follow _fastAGI"/></a> 
-<a href="https://t.me/share/url?text=Check%20this%20GitHub%20repository%20out.%20FastAGI%20-%20Let%27s%20you%20easily%20build,%20manage%20and%20run%20useful%20autonomous%20AI%20agents.&url=https://github.com/TransformerOptimus/FastAGI" target="_blank"><img src="https://img.shields.io/twitter/url?label=Telegram&logo=Telegram&style=social&url=https://github.com/TransformerOptimus/FastAGI" alt="Share on Telegram"/></a>
-<a href="https://api.whatsapp.com/send?text=Check%20this%20GitHub%20repository%20out.%20FastAGI%20-%20Let's%20you%20easily%20build,%20manage%20and%20run%20useful%20autonomous%20AI%20agents.%20https://github.com/TransformerOptimus/FastAGI"><img src="https://img.shields.io/twitter/url?label=whatsapp&logo=whatsapp&style=social&url=https://github.com/TransformerOptimus/FastAGI" /></a> <a href="https://www.reddit.com/submit?url=https://github.com/TransformerOptimus/FastAGI&title=Check%20this%20GitHub%20repository%20out.%20FastAGI%20-%20Let's%20you%20easily%20build,%20manage%20and%20run%20useful%20autonomous%20AI%20agents.
+<a href="https://t.me/share/url?text=Check%20this%20GitHub%20repository%20out.%20FastAGI%20-%20Let%27s%20you%20easily%20build,%20manage%20and%20run%20useful%20autonomous%20AI%20agents.&url=https://github.com/khulnasoft/FastAGI" target="_blank"><img src="https://img.shields.io/twitter/url?label=Telegram&logo=Telegram&style=social&url=https://github.com/khulnasoft/FastAGI" alt="Share on Telegram"/></a>
+<a href="https://api.whatsapp.com/send?text=Check%20this%20GitHub%20repository%20out.%20FastAGI%20-%20Let's%20you%20easily%20build,%20manage%20and%20run%20useful%20autonomous%20AI%20agents.%20https://github.com/khulnasoft/FastAGI"><img src="https://img.shields.io/twitter/url?label=whatsapp&logo=whatsapp&style=social&url=https://github.com/khulnasoft/FastAGI" /></a> <a href="https://www.reddit.com/submit?url=https://github.com/khulnasoft/FastAGI&title=Check%20this%20GitHub%20repository%20out.%20FastAGI%20-%20Let's%20you%20easily%20build,%20manage%20and%20run%20useful%20autonomous%20AI%20agents.
 " target="blank">
-<img src="https://img.shields.io/twitter/url?label=Reddit&logo=Reddit&style=social&url=https://github.com/TransformerOptimus/FastAGI" alt="Share on Reddit"/>
-</a> <a href="mailto:?subject=Check%20this%20GitHub%20repository%20out.&body=FastAGI%20-%20Let%27s%20you%20easily%20build,%20manage%20and%20run%20useful%20autonomous%20AI%20agents.%3A%0Ahttps://github.com/TransformerOptimus/FastAGI" target="_blank"><img src="https://img.shields.io/twitter/url?label=Gmail&logo=Gmail&style=social&url=https://github.com/TransformerOptimus/FastAGI"/></a> <a href="https://www.buymeacoffee.com/fastagi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px"></a>
+<img src="https://img.shields.io/twitter/url?label=Reddit&logo=Reddit&style=social&url=https://github.com/khulnasoft/FastAGI" alt="Share on Reddit"/>
+</a> <a href="mailto:?subject=Check%20this%20GitHub%20repository%20out.&body=FastAGI%20-%20Let%27s%20you%20easily%20build,%20manage%20and%20run%20useful%20autonomous%20AI%20agents.%3A%0Ahttps://github.com/khulnasoft/FastAGI" target="_blank"><img src="https://img.shields.io/twitter/url?label=Gmail&logo=Gmail&style=social&url=https://github.com/khulnasoft/FastAGI"/></a> <a href="https://www.buymeacoffee.com/fastagi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px"></a>
 
 </p>
 
@@ -118,7 +118,7 @@ The comprehensive documentation for the FastAGI NodeJS Client Library can be fou
 
 ## 🪪License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/TransformerOptimus/FastAGI-Node-Client/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/khulnasoft/FastAGI-Node-Client/blob/main/LICENSE) file for details.
 
 ## 💁‍♀️Get Help
 
