@@ -5,7 +5,7 @@
   "main": "fastagi_client/index.js",
   "repository": {
     "type": "git",
-    "url": "https://app.fastagi.khulnasoft.com"
+    "url": "https://github.com/khulnasoft/FastAGI-Node-Client"
   },
   "author": "fastagi <info@khulnasoft.com>",
   "license": "MIT",
