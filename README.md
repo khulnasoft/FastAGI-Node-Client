@@ -50,8 +50,8 @@
 <p align="center"><b>Connect with the Creator </b></p>
 
 <p align="center">
-<a href="https://twitter.com/ishaanbhola" target="blank">
-<img src="https://img.shields.io/twitter/follow/ishaanbhola?label=Follow: ishaanbhola&style=social" alt="Follow ishaanbhola"/>
+<a href="https://twitter.com/khulnasoft" target="blank">
+<img src="https://img.shields.io/twitter/follow/khulnasoft?label=Follow: khulnasoft&style=social" alt="Follow khulnasoft"/>
 </a>
 </p>
 
